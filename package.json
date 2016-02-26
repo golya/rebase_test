@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Example project for git strategy",
   "main": "index.js",
-  "author": "",
+  "author": "Ádám Gólya",
   "license": "ISC"
 }
